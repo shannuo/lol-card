@@ -8,7 +8,7 @@ const ROLES = {
 }
 
 const ROLESDARA = {
-  'zhoumeng': "宝贝，你要跟我聊会吗",
+  'meng': "你要跟我聊会吗",
 }
 
 console.log(ROLESDARA, ROLES.GUEST);
